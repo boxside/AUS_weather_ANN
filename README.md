@@ -286,7 +286,7 @@ df.RainTomorrow.value_counts() / df.shape[0]
 
 
     
-![png](ann_files/ann_8_1.png)
+![png](https://github.com/boxside/AUS_weather_ANN/blob/main/figure/1.png)
     
 
 
@@ -353,7 +353,7 @@ ann_viz(net, view=False)
 
 
     
-![svg](ann_files/ann_15_0.svg)
+![svg](https://github.com/boxside/AUS_weather_ANN/blob/main/figure/ann_15_0.svg)
     
 
 
@@ -511,7 +511,7 @@ sns.lineplot(x='epoch', y='loss',data=history)
 
 
     
-![png](ann_files/ann_24_1.png)
+![png](https://github.com/boxside/AUS_weather_ANN/blob/main/figure/3.png)
     
 
 
@@ -529,7 +529,7 @@ sns.lineplot(x='epoch', y='acc',data=history)
 
 
     
-![png](ann_files/ann_25_1.png)
+![png](https://github.com/boxside/AUS_weather_ANN/blob/main/figure/4.png)
     
 
 
@@ -573,7 +573,7 @@ plt.xlabel('Predicted label');
 
 
     
-![png](ann_files/ann_28_0.png)
+![png](https://github.com/boxside/AUS_weather_ANN/blob/main/figure/5.png)
     
 
 
